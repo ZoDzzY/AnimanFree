@@ -1,0 +1,17 @@
+h1
+{
+  color : rgb(48, 48, 177);
+}
+
+body
+{
+    background-color: rgba(62, 174, 150, 0.429);
+}
+
+#cadre
+{
+    width: 800px;
+    margin:0 auto;
+    background-color: azure;
+    text-align: center;
+}
